@@ -37,4 +37,4 @@ I have added screenshots of the query results in the `outputs/` folder so that t
 ## 📜 How to Use
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
+   git clone <https://github.com/BHARTCHAUHAN/sales-data-analysis-sql>
